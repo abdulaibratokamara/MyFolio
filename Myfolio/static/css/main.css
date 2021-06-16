@@ -30,15 +30,10 @@ ul{
 	height: 20px;
 }
 
-.a ol {
-
+.a ol, li{
+	padding: 5px;
 	list-style-type: circle;
 	display: list-item;
 }
 
-.b ul{
-	padding: 5px;
-    list-style-type: square;
-	display: list-item;
-}
 
