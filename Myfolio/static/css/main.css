@@ -14,16 +14,16 @@ body{
   	margin-right: auto;
 }
 
-/* ul{
+ul{
 	padding: 5px;
-    list-style-type: circle;
+    list-style-type: none;
 }
 
 
 .social-links ul, li{
 	list-style-type:none;
 	display: inline-block;
-} */
+}
 
 .social{
 	width:20px;
